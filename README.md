@@ -8,4 +8,4 @@ Contains some files for starting a static website.
 2. Type `git clone git@github.com:gt-webdev/static-website-starter.git`
 
 ### Alternative
-1. Download a zip file from the Releases [here](www.google.com).
+1. Download a zip file from the Releases [here](https://github.com/gt-webdev/static-website-starter/releases/tag/v1.0).
